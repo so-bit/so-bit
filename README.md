@@ -14,7 +14,7 @@ A passionate software engineer and data enthusiast currently pursuing a Master's
 
 ## LeetCode Profile
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Sona2000/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Sonal2000/)
 
 
   
